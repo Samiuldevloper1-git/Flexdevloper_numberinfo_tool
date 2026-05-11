@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Flex devloper Number Info Tool
+# 📱 Flexdevloper Number Info Tool
 
 ### 🔥 Ek Simple Aur Powerful Phone Number Information Lookup Tool
 
@@ -41,30 +41,42 @@
 
 ---
 
-## 🧰 Installation (Termux)
+## ⚡ Installation
 
-Termux mein yeh commands ek ek karke run karo:
+**Step 1** — Packages update karo
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install git -y
-pkg install python -y
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+pkg update -y && pkg upgrade -y
 ```
 
----
-
-## ▶️ Kaise Run Karein
+**Step 2** — Git aur Python install karo
 
 ```bash
-python phone.py
+pkg install git python -y
 ```
 
-**Ya phir:**
+**Step 3** — Repository clone karo
 
 ```bash
-python main.py
+git clone https://github.com/Samiuldevloper1-git/Flexdevloper_numberinfo_tool.git
+```
+
+**Step 4** — Folder mein jao
+
+```bash
+cd Flexdevloper_numberinfo_tool
+```
+
+**Step 5** — Dependencies install karo
+
+```bash
+pip install -r requirements.txt
+```
+
+**Step 6** — Tool run karo
+
+```bash
+python tool.py
 ```
 
 ---
@@ -110,7 +122,7 @@ Tool output ko format karke terminal mein dikhata hai
 
 📱 Number   : +91 1234567890
 🌍 Country  : India
-📡 Carrier  : Carrier
+📡 Carrier  : Airtel
 📍 Location : Location
 ✅ Valid    : Yes
 ```
@@ -143,5 +155,5 @@ Agar ye project tumhare kaam aaya, toh **⭐ Star** dekar support karo aur apne 
 ---
 
 <div align="center">
-Made with ❤️ by <b>Flex Devloper</b> | <a href="https://t.me/Prime_x_Samiul">@Prime_x_Samiul</a>
+Made with ❤️ by <b>Flex-Devloper</b> | <a href="https://t.me/Prime_x_Samiul">@Prime_x_Samiul</a>
 </div>
