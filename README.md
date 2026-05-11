@@ -143,5 +143,5 @@ Agar ye project tumhare kaam aaya, toh **⭐ Star** dekar support karo aur apne 
 ---
 
 <div align="center">
-Made with ❤️ by <b>FlexDev</b> | <a href="https://t.me/Prime_x_Samiul">@Prime_x_Samiul</a>
+Made with ❤️ by <b>Flex Devloper</b> | <a href="https://t.me/Prime_x_Samiul">@Prime_x_Samiul</a>
 </div>
