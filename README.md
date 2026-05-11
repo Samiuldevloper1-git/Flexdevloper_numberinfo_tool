@@ -129,7 +129,7 @@ Tool output ko format karke terminal mein dikhata hai
 
 | Field | Details |
 |-------|---------|
-| 👨‍💻 Developer | **FlexDev** |
+| 👨‍💻 Developer | **Flex-Devloper** |
 | 📢 Telegram | [@Prime_x_Samiul](https://t.me/Prime_x_Samiul) |
 | 🚀 Purpose | Learning + API Testing |
 | 📌 Version | 1.0 |
